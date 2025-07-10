@@ -50,10 +50,11 @@ This project aims to predict customer satisfaction (CSAT) scores for Flipkart cu
 ## How to Run
 
 1. Clone the repository.
-2. Install requirements:  
+   `https://github.com/gvdharun/Flipkart-Customer-Service-Satisfaction.git`
+3. Install requirements:  
    `pip install -r requirements.txt`
-3. Run the Jupyter notebook or Python script for training and evaluation.
-4. The best model is saved as `best_xgb_model.pkl` for easy deployment.
+4. Run the Jupyter notebook or Python script for training and evaluation.
+5. The best model is saved as `best_xgb_model.pkl` for easy deployment.
 
 ---
 
